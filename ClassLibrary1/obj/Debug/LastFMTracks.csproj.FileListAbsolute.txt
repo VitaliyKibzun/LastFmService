@@ -1,0 +1,5 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

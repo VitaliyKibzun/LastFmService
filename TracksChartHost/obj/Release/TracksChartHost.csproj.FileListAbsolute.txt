@@ -1,0 +1,8 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\bin\Release\TracksChartHost.exe.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\bin\Release\TracksChartHost.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\bin\Release\TracksChartHost.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\bin\Release\ClassLibrary1.dll
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\bin\Release\ClassLibrary1.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\obj\Release\TracksChartHost.csprojResolveAssemblyReference.cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\obj\Release\TracksChartHost.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\TracksChartHost\obj\Release\TracksChartHost.pdb

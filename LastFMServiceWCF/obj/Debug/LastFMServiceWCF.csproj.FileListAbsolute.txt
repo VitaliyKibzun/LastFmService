@@ -1,0 +1,5 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFMServiceWCF\bin\LastFMServiceWCF.dll
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFMServiceWCF\bin\LastFMServiceWCF.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFMServiceWCF\obj\Debug\LastFMServiceWCF.csprojResolveAssemblyReference.cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFMServiceWCF\obj\Debug\LastFMServiceWCF.dll
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFMServiceWCF\obj\Debug\LastFMServiceWCF.pdb

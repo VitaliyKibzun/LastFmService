@@ -1,0 +1,9 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\bin\Debug\LastFmService.exe.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\bin\Debug\LastFmService.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\bin\Debug\LastFmService.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.csprojResolveAssemblyReference.cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.Form1.resources
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.Properties.Resources.resources
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.csproj.GenerateResource.Cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFmService\LastFmService\obj\Debug\LastFmService.pdb
